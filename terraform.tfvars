@@ -1,0 +1,5 @@
+project_id = "optical-depth-472215-h9"
+region     = "us-central1"
+zone       = "us-central1-a"
+vm_name    = "demo-gha-tf-vm"
+service_account_email = "victorsanhueza101125@optical-depth-472215-h9.iam.gserviceaccount.com"
