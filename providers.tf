@@ -9,7 +9,7 @@ terraform {
 
   backend "gcs" {
     bucket = "optical-depth-472215-h9-tfstate"  # ya existe
-    prefix = "terraform/state"                  # “carpeta” lógica
+    prefix = "function/state"                  # “carpeta” lógica
   }
 }
 
